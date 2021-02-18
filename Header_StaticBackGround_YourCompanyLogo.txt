@@ -28,7 +28,7 @@
                         "width": "150px"
                     },
                     "attributes": {
-                        "src": "https://pepsico.sharepoint.com/teams/VinayCommunications/Shared%20Documents/Icons/MyPepsiCo.png"
+                        "src": "RELATIVE URL TO LOGO"
                     }
                 }
             ]
