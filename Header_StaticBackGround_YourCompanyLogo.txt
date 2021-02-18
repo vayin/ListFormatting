@@ -1,0 +1,56 @@
+{
+    "debugmode": "true",
+    "elmType": "div",
+    "attributes": {
+        "class": "ms-bgColor-white"
+    },
+    "style": {
+        "width": "99%",
+        "border-top-width": "0px",
+        "border-bottom-width": "1px",
+        "border-left-width": "0px",
+        "border-right-width": "0px",
+        "border-style": "solid",
+        "margin-bottom": "16px"
+    },
+    "children": [
+        {
+            "elmType": "div",
+            "style": {
+                "display": "flex",
+                "box-sizing": "border-box",
+                "align-items": "center"
+            },
+            "children": [
+                {
+                    "elmType": "img",
+                    "style": {
+                        "width": "150px"
+                    },
+                    "attributes": {
+                        "src": "https://pepsico.sharepoint.com/teams/VinayCommunications/Shared%20Documents/Icons/MyPepsiCo.png"
+                    }
+                }
+            ]
+        },
+        {
+            "elmType": "div",
+            "attributes": {
+                "class": "ms-fontColor-blueMid ms-fontWeight-bold ms-fontSize-24"
+            },
+            "style": {
+                "box-sizing": "border-box",
+                "width": "100%",
+                "text-align": "left",
+                "padding": "21px 12px",
+                "overflow": "hidden"
+            },
+            "children": [
+                {
+                    "elmType": "div",
+                    "txtContent": "=if ([$Title] == '', 'New Item', 'Item: ' + [$Title])"
+                }
+            ]
+        }
+    ]
+}
