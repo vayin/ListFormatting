@@ -1,0 +1,28 @@
+{
+    "sections": [
+        {
+            "displayname": "Information",
+            "fields": [
+                "Work",
+                "Description"                
+            ]
+        },
+        {
+            "displayname": "Details",
+            "fields": [
+                "Complete by",
+                "Complete?",
+                "Completed On"                
+            ]
+        },        
+        {
+            "displayname": "Additional Info",
+            "fields": [
+                "Mentor",                
+                "Mentor Comments",
+                "Relevant link",
+                "Relevant files"            
+            ]
+        }        
+    ]
+}
