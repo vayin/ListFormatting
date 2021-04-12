@@ -1,0 +1,13 @@
+{
+    "elmType": "div",
+    "txtContent": "='© ' + getYear(@now) + ' Contoso.' + ' Contact hr@contoso.com for any questions'",
+    "style": {
+        "font-size": "normal",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "padding-top": "2px",
+        "display": "flex",
+        "justify-content": "center"
+    },
+    "attributes": {}
+}
