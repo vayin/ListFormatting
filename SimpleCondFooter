@@ -1,0 +1,15 @@
+{
+    "elmType": "div",
+    "txtContent": "='© ' + getYear(@now) + ' Contoso Electronics'",
+    "style": {
+        "font-size": "flex",
+        "border-top-style": "solid",
+        "border-top-width": "4px",
+        "padding-top": "2px",
+        "display": "flex",
+        "justify-content": "center"
+    },
+    "attributes": {
+        "class": "=if([$Complete]==false,'true', 'ms-borderColor-greenLight') +' ms-fontColor-neutralPrimary' + ' ms-borderColor-orangeLight'"
+    }
+}
